@@ -24,3 +24,6 @@ func try1() {
 	print("Hello World1!!")
 	g.Done()
 }
+func try3() {
+
+}
